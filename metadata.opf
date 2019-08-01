@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3a2a143-6325-40f3-9a3d-532e5eb149ab</dc:identifier>
+        <dc:title>Hot et Steam</dc:title>
+        <dc:creator opf:file-as="Olivier, Le Deuff" opf:role="aut">Le Deuff Olivier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.22.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Londres, à la toute fin de règne de Victoria, la jeune et intrépide Lady V. est en quête d'aventures et de romance. Alors qu'elle rêve de combattre des ennemis en chair et en os, elle est confrontée à un adversaire bien plus coriace : un démon qui semble bien décidé à éliminer toute la nouvelle société digitale présente à la soirée du célèbre baron, créateur du réseau social le plus en vue. Dans une atmosphère steampunk où les nouvelles technologies bouleversent la fin de l'ère victorienne, Lady. V tente d'éviter le pire pour profiter du meilleur. Meurtres étranges, personnages haut en couleur, fantômes malfaisants, inventions improbables, hot et steam est un cocktail explosif qui ne demande qu'à vous séduire.</dc:description>
+        <dc:language>fra</dc:language>
+        <dc:subject>steampunk</dc:subject>
+        <dc:subject>uchronie</dc:subject>
+        <dc:subject>héroïne</dc:subject>
+        <dc:subject>technologies de télécommunication</dc:subject>
+        <dc:subject>Londres</dc:subject>
+        <dc:subject>époque victorienne</dc:subject>
+        <meta content="{&quot;Le Deuff Olivier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-01T12:22:15.396000+00:00" name="calibre:timestamp"/>
+        <meta content="Hot et Steam" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>
